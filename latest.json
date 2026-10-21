@@ -1,0 +1,11 @@
+{
+  "version": "0.4.1",
+  "notes": "Privacy fixes, and a new option on the start page: Hide my IP address from other players.",
+  "pub_date": "2026-10-21T11:22:20.930Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbUdORG96aXUwUXRyL3RpNUtvYkd5bEJUTFcyVGYvSFpySDNxZC9aQXJnV0kwcFVtU3duSWR4eE9QMG5UbUhiWllFUEloZmJ0cmU2d0FFYjFDdXlYd2N3YjRDVm5CVHcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTgxNzQwCWZpbGU6SGV4bGFuZHNfMC40LjFfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuNC4xCkxBbTRkZjdlZzF1Q3ZsOW1BL2x5UnFIZmx5c3orMERiTkpZOUI0T0VOWjBmS1ErNGxzUHRMVnVWbWdYRTZzdEI5N3ZoaWc1K1BBSnhTN2VQQjErN0FRPT0K",
+      "url": "https://raw.githubusercontent.com/tweeeki/hexlands-releases/main/v0.4.1/Hexlands_0.4.1_x64-setup.exe"
+    }
+  }
+}

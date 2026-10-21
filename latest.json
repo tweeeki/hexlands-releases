@@ -1,11 +1,11 @@
 {
-  "version": "0.6.0",
-  "notes": "Playtest 1, part 2: bigger player cards with icons for cards, knights, road and awards; each player's unbuilt pieces on their side of the table; the robber is now the Orc Band; pick a portrait or your own picture in the lobby; a paused game shows no actions. Everyone in a game needs v0.6.0.",
-  "pub_date": "2026-10-21T14:51:33.591Z",
+  "version": "0.7.0",
+  "notes": "Playtest 1 notes: your cards fill up as the resources land; a Leave button (red X, top left); \"Your turn\" in the middle of the screen; places 1st to 4th and a winner screen with Continue, New game and Rematch; a Dice setting (fair dice, balanced deck, or the original's dice stack). Everyone in a game needs v0.7.0.",
+  "pub_date": "2026-10-21T16:48:58.568Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbUdORG96aXUwUXFPWm8yZXVxQSsrVTFvNHY0ODR1V0R0SjJMRkxhczd0NHRlZXlzWHl1UXdaTUZUaElrZ2RiWE5NcWdFM0FpTUEwZU1Vd20wa2g4eXNCNFMzVXFLSEFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTk0MjkyCWZpbGU6SGV4bGFuZHNfMC42LjBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuNi4wCkhhQk9CcDZUNHNYclhDQUpqeEJRK2hxMmJMM0FRRTZGRG9uNFVmRXBKeWlxS21DaVhZbzgyT3ptd3dwM3JjakxNc3haa0pPUmorN1ZtS2JLY2J4ZERRPT0K",
-      "url": "https://raw.githubusercontent.com/tweeeki/hexlands-releases/main/v0.6.0/Hexlands_0.6.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbUdORG96aXUwUW5tdlpnQTRma1ljZUt3U2F0RGVRMHdrSDJOb2Z4bmlyWjBmME9tOE1TVUZFc0xETDBJdEdrQjhSSmpoaEFTVzNLcUl3aXRBazZFOUY2OUFsUTBOYndRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjAxMzM4CWZpbGU6SGV4bGFuZHNfMC43LjBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuNy4wCjNxV0NhTWg1NlIwREZDZ2tGYi9HZ1VLREhaSFFnZ2NBTXEvMmlSS2x3WjZxUmRBMzNaWXRkcXJIaWhPUzZGSXI3U0d0MkFoOHkrc2t4Y0tuYlhUYURBPT0K",
+      "url": "https://raw.githubusercontent.com/tweeeki/hexlands-releases/main/v0.7.0/Hexlands_0.7.0_x64-setup.exe"
     }
   }
 }

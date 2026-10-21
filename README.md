@@ -1,6 +1,6 @@
 # Hexlands
 
-Download **[Hexlands v0.6.0 for Windows](https://github.com/tweeeki/hexlands-releases/raw/main/v0.6.0/Hexlands_0.6.0_x64-setup.exe)** (about 5 MB), run it, and
+Download **[Hexlands v0.7.0 for Windows](https://github.com/tweeeki/hexlands-releases/raw/main/v0.7.0/Hexlands_0.7.0_x64-setup.exe)** (about 5 MB), run it, and
 start Hexlands from the Start menu.
 
 Windows shows "Windows protected your PC" because the installer is not signed:

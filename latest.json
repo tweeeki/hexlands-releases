@@ -1,11 +1,11 @@
 {
-  "version": "0.8.0",
-  "notes": "Trade with players or the bank on two screens (the bank steps by your rate); a popup when someone takes Longest Road or Largest Army; Settings with fullscreen (F11), graphics quality and reduce motion; a new menu over a moving lagoon. Accounts, levels and players online are built in and switch on once the accounts server is set up. Everyone in a game needs v0.8.0.",
-  "pub_date": "2026-10-21T21:11:53.376Z",
+  "version": "0.9.0",
+  "notes": "The Blender models are in: the converted tiles, pieces, sea, harbours and ship in the painted-diorama style, shown on the new look-dev page (the board itself switches to them in the next release). Credits for the models' designers in the menu. Accounts now work with email and password (Discord comes later). Protocol unchanged since v0.8.0.",
+  "pub_date": "2026-10-21T23:01:40.569Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbUdORG96aXUwUWtZNnNoazd3dnJJc0JvSkluZzVWb2ZZT1BvZFhQUzN0amYrY3N0c2QyR0pqakxQQWw5YnZBY0tkYk9kS2NINWxGR0ZOUHJLMWdERDlOS05DVHlkQ3dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjE3MTEyCWZpbGU6SGV4bGFuZHNfMC44LjBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuOC4wCm9tRG42VHZDQnJVUEg3YTcwWXE1NzJXQTFVd1BYak1QWXBVcEkzZVJDeDViakZNWjN1Y0g0TXlxR1NqcFJrMEljaGg3WDFCQTNXOGdxQldmMlhTL0JRPT0K",
-      "url": "https://raw.githubusercontent.com/tweeeki/hexlands-releases/main/v0.8.0/Hexlands_0.8.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbUdORG96aXUwUXE3bGRaaWg1bStmWmFJTFVBYVVkaFArUGV4Y056RDFnN2pvYjZXZHhYRkdObUEvUVJVUlY2TWdXek53RityZXE5d1J0RnZ2TmZWenZXSm8yQTFZK1EwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjIzNjk5CWZpbGU6SGV4bGFuZHNfMC45LjBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuOS4wClUwNThhRFFXZE01azN2aFIrNDRhYWRkdlc5TmMyeGk0RE1aY3kvWGJZNkREZmd4eU9tZFExK3hwMGZyY1FjK2dNb3VYNXJ1RmF6ZEFNWHNCRTZSdkRRPT0K",
+      "url": "https://raw.githubusercontent.com/tweeeki/hexlands-releases/main/v0.9.0/Hexlands_0.9.0_x64-setup.exe"
     }
   }
 }

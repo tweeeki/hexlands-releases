@@ -1,11 +1,11 @@
 {
-  "version": "0.7.0",
-  "notes": "Playtest 1 notes: your cards fill up as the resources land; a Leave button (red X, top left); \"Your turn\" in the middle of the screen; places 1st to 4th and a winner screen with Continue, New game and Rematch; a Dice setting (fair dice, balanced deck, or the original's dice stack). Everyone in a game needs v0.7.0.",
-  "pub_date": "2026-10-21T16:48:58.568Z",
+  "version": "0.8.0",
+  "notes": "Trade with players or the bank on two screens (the bank steps by your rate); a popup when someone takes Longest Road or Largest Army; Settings with fullscreen (F11), graphics quality and reduce motion; a new menu over a moving lagoon. Accounts, levels and players online are built in and switch on once the accounts server is set up. Everyone in a game needs v0.8.0.",
+  "pub_date": "2026-10-21T21:11:53.376Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbUdORG96aXUwUW5tdlpnQTRma1ljZUt3U2F0RGVRMHdrSDJOb2Z4bmlyWjBmME9tOE1TVUZFc0xETDBJdEdrQjhSSmpoaEFTVzNLcUl3aXRBazZFOUY2OUFsUTBOYndRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjAxMzM4CWZpbGU6SGV4bGFuZHNfMC43LjBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuNy4wCjNxV0NhTWg1NlIwREZDZ2tGYi9HZ1VLREhaSFFnZ2NBTXEvMmlSS2x3WjZxUmRBMzNaWXRkcXJIaWhPUzZGSXI3U0d0MkFoOHkrc2t4Y0tuYlhUYURBPT0K",
-      "url": "https://raw.githubusercontent.com/tweeeki/hexlands-releases/main/v0.7.0/Hexlands_0.7.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbUdORG96aXUwUWtZNnNoazd3dnJJc0JvSkluZzVWb2ZZT1BvZFhQUzN0amYrY3N0c2QyR0pqakxQQWw5YnZBY0tkYk9kS2NINWxGR0ZOUHJLMWdERDlOS05DVHlkQ3dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjE3MTEyCWZpbGU6SGV4bGFuZHNfMC44LjBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuOC4wCm9tRG42VHZDQnJVUEg3YTcwWXE1NzJXQTFVd1BYak1QWXBVcEkzZVJDeDViakZNWjN1Y0g0TXlxR1NqcFJrMEljaGg3WDFCQTNXOGdxQldmMlhTL0JRPT0K",
+      "url": "https://raw.githubusercontent.com/tweeeki/hexlands-releases/main/v0.8.0/Hexlands_0.8.0_x64-setup.exe"
     }
   }
 }

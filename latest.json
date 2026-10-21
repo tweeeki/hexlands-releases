@@ -1,11 +1,11 @@
 {
-  "version": "0.4.1",
-  "notes": "Privacy fixes, and a new option on the start page: Hide my IP address from other players.",
-  "pub_date": "2026-10-21T11:22:20.930Z",
+  "version": "0.5.0",
+  "notes": "Roll dice and End turn now sit in the bottom right corner. Trading is a window of cards with − and +, shows the bank rate on each card, can go to one player, and shows every answer. A stolen card flies from the victim to the thief. A new panel counts how often each number was rolled. Everyone in a game needs this version.",
+  "pub_date": "2026-10-21T12:40:51.998Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbUdORG96aXUwUXRyL3RpNUtvYkd5bEJUTFcyVGYvSFpySDNxZC9aQXJnV0kwcFVtU3duSWR4eE9QMG5UbUhiWllFUEloZmJ0cmU2d0FFYjFDdXlYd2N3YjRDVm5CVHcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTgxNzQwCWZpbGU6SGV4bGFuZHNfMC40LjFfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuNC4xCkxBbTRkZjdlZzF1Q3ZsOW1BL2x5UnFIZmx5c3orMERiTkpZOUI0T0VOWjBmS1ErNGxzUHRMVnVWbWdYRTZzdEI5N3ZoaWc1K1BBSnhTN2VQQjErN0FRPT0K",
-      "url": "https://raw.githubusercontent.com/tweeeki/hexlands-releases/main/v0.4.1/Hexlands_0.4.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbUdORG96aXUwUWtlZ2VsVFZQNjJXVHBtTnhGRzNZN3RlaEU2T1pURzRwVjVVZWJWRWcyTDNON3liWWY2R2p4dVZjbUV3djFraVJGM28wZkt0U3BUaEJNdThYaEUzRUFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTg2NDUxCWZpbGU6SGV4bGFuZHNfMC41LjBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuNS4wCkNQVDNnWHRQWEJOZGNrQWMwMUhWbUxqWVI2M2VocnUzN2hVZm5lT3dMUVUyVk5YSFpLaG1KNmdKQnJPV3FhcEE4UVZFOHZ3RzJROFl1RWFmTWk0c0RBPT0K",
+      "url": "https://raw.githubusercontent.com/tweeeki/hexlands-releases/main/v0.5.0/Hexlands_0.5.0_x64-setup.exe"
     }
   }
 }

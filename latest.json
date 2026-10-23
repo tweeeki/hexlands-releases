@@ -1,11 +1,11 @@
 {
-  "version": "0.9.0",
-  "notes": "The Blender models are in: the converted tiles, pieces, sea, harbours and ship in the painted-diorama style, shown on the new look-dev page (the board itself switches to them in the next release). Credits for the models' designers in the menu. Accounts now work with email and password (Discord comes later). Protocol unchanged since v0.8.0.",
-  "pub_date": "2026-10-21T23:01:40.569Z",
+  "version": "0.10.0",
+  "notes": "The board now uses the new 3D models in the painted-diorama style: tiles with their own variants and life, the sea with rocking boats, the harbours, and your pieces in your colour with a dark outline. Sound effects for every game event and calm music on the menu and in games, with their own volume in Settings. Protocol unchanged since v0.8.0.",
+  "pub_date": "2026-10-23T00:55:05.724Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbUdORG96aXUwUXE3bGRaaWg1bStmWmFJTFVBYVVkaFArUGV4Y056RDFnN2pvYjZXZHhYRkdObUEvUVJVUlY2TWdXek53RityZXE5d1J0RnZ2TmZWenZXSm8yQTFZK1EwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjIzNjk5CWZpbGU6SGV4bGFuZHNfMC45LjBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuOS4wClUwNThhRFFXZE01azN2aFIrNDRhYWRkdlc5TmMyeGk0RE1aY3kvWGJZNkREZmd4eU9tZFExK3hwMGZyY1FjK2dNb3VYNXJ1RmF6ZEFNWHNCRTZSdkRRPT0K",
-      "url": "https://raw.githubusercontent.com/tweeeki/hexlands-releases/main/v0.9.0/Hexlands_0.9.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbUdORG96aXUwUW1lcmNsQncrdGlod1lhUURBbk5XMmNHL0h0SkVjZnp4dGZqN0Y3b1dodzZHYmlQL2JpQW96NVBxTjJzVWN0M0tSa1pmSDcvMkdaVzVLRjZUTkFBVFF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzE2OTA0CWZpbGU6SGV4bGFuZHNfMC4xMC4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEwLjAKLzU5dzZzUlYvRHBMS3lqNFFHdDlJY0Y1emx1c3J5SzB3YWtHakExenVxNVo4OENMRm1EMExuY3doR3N2OUdJblVEMlQxYmxZUnVlbTVvVlZuQVBTQVE9PQo=",
+      "url": "https://raw.githubusercontent.com/tweeeki/hexlands-releases/main/v0.10.0/Hexlands_0.10.0_x64-setup.exe"
     }
   }
 }

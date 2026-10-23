@@ -1,11 +1,11 @@
 {
-  "version": "0.10.0",
-  "notes": "The board now uses the new 3D models in the painted-diorama style: tiles with their own variants and life, the sea with rocking boats, the harbours, and your pieces in your colour with a dark outline. Sound effects for every game event and calm music on the menu and in games, with their own volume in Settings. Protocol unchanged since v0.8.0.",
-  "pub_date": "2026-10-23T00:55:05.724Z",
+  "version": "0.11.0",
+  "notes": "A 7 now waits for the dice. Number tokens are white with black numbers and no longer flicker; every harbour has a sign with its trade. Emotes and private notes to one player in online games. Offers you cannot pay no longer pop up, a loading screen shows while the board loads, a city sends its settlement back to your stack, and the player cards and hand are bigger on large screens. Fixes for dice over the winner screen and pieces stuck mid-drop. Everyone in a game needs v0.11.0.",
+  "pub_date": "2026-10-23T12:40:58.485Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbUdORG96aXUwUW1lcmNsQncrdGlod1lhUURBbk5XMmNHL0h0SkVjZnp4dGZqN0Y3b1dodzZHYmlQL2JpQW96NVBxTjJzVWN0M0tSa1pmSDcvMkdaVzVLRjZUTkFBVFF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzE2OTA0CWZpbGU6SGV4bGFuZHNfMC4xMC4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEwLjAKLzU5dzZzUlYvRHBMS3lqNFFHdDlJY0Y1emx1c3J5SzB3YWtHakExenVxNVo4OENMRm1EMExuY3doR3N2OUdJblVEMlQxYmxZUnVlbTVvVlZuQVBTQVE9PQo=",
-      "url": "https://raw.githubusercontent.com/tweeeki/hexlands-releases/main/v0.10.0/Hexlands_0.10.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbUdORG96aXUwUXJCN2tULytvNHNvcnVvaXRBRjhEQjFvNDRIdW9Sc0hNVEUwNG9KYzFCVzFrMEoyaXhzbFVhRlFvbTdGT2pwckN0OVJXR3lBYjF3YXp3ekJDY05CSGdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzU5MjU3CWZpbGU6SGV4bGFuZHNfMC4xMS4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjExLjAKeFN0RktZQ2w2VHFDdFNDam9JY1BHdlpJNXRNb1RZSFpZeWZyVzJpdnZ3MUZsM2VZMGNYOUtZY2h4bTR5L0ZjYndYZVBhaVF6QVgyMm1OMUhnMjNKREE9PQo=",
+      "url": "https://raw.githubusercontent.com/tweeeki/hexlands-releases/main/v0.11.0/Hexlands_0.11.0_x64-setup.exe"
     }
   }
 }

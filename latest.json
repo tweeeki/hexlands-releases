@@ -1,11 +1,11 @@
 {
-  "version": "0.11.2",
-  "notes": "The tiles now stand apart with wide wooden lanes between them, so every road, settlement and city is easy to see; roads are a bit shorter, and each number lies in its tile's round spot, tilted toward you. The sea is new: one realistic ocean with waves, caustics, depth colour and (on High) the island reflected in the water; the boats ride the waves. Same protocol as v0.11.0.",
-  "pub_date": "2026-10-23T16:47:00.080Z",
+  "version": "0.11.3",
+  "notes": "Hotfix: the number tokens no longer flicker or show stripes when you move the camera. Same protocol as v0.11.0.",
+  "pub_date": "2026-10-23T17:01:45.062Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbUdORG96aXUwUXNQY1Bpa01kUnVBQXNOaHVRZWZnNXM5QkhNR1ZjbzNrekEzZnBENENmbE02UzJjbTBJZnVMSUJxRDlUdVVCTjhSL0hpWkNzdDQwZW9kVTlweFJxUWdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzc0MDE4CWZpbGU6SGV4bGFuZHNfMC4xMS4yX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjExLjIKTTdKOHM0MThOQTR4VFJ4cGhKSkM4YzVpWUpTRC9WcEdrbVRQc2dtcHFhenh4ZzRXQ0xjV2p2Z1hEdXhPZ3l5UExVZkszWStzUnp4MXBrdE41blFxQXc9PQo=",
-      "url": "https://raw.githubusercontent.com/tweeeki/hexlands-releases/main/v0.11.2/Hexlands_0.11.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbUdORG96aXUwUXBDR2RnZlpYb2FRb1FaNDEybUwvM1lDN25SbmJ0NklLNHNURlZwMjVNaWQ1dTdDR0ZhOTVQK3F0Uk9lQ0Z3eGlIL3RlN1FzRzVPYk1aZ0hlSTNxL1EwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzc0OTAzCWZpbGU6SGV4bGFuZHNfMC4xMS4zX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjExLjMKdW9CYzZ3VVpDQStBZnFVTDg1NlI0U3I3MThqcVdTQ1pNYkFBcjdEenArb3Zyd1BZUlNLQm15RURKTUhDbUs0b2dBK0NKTEkzN0pUV0V6aFBTN2RzQ0E9PQo=",
+      "url": "https://raw.githubusercontent.com/tweeeki/hexlands-releases/main/v0.11.3/Hexlands_0.11.3_x64-setup.exe"
     }
   }
 }

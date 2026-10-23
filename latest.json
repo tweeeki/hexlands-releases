@@ -1,11 +1,11 @@
 {
-  "version": "0.11.1",
-  "notes": "A raised wooden frame now runs between all tiles and the pieces stand on it, so you can see every edge, corner and player's house at a glance. Soft caustics on the shallow water and a deeper sea colour. Setup spots no longer cover the harbour signs, and games use less memory. Same protocol as v0.11.0: you can keep playing with friends on v0.11.0.",
-  "pub_date": "2026-10-23T15:36:44.470Z",
+  "version": "0.11.2",
+  "notes": "The tiles now stand apart with wide wooden lanes between them, so every road, settlement and city is easy to see; roads are a bit shorter, and each number lies in its tile's round spot, tilted toward you. The sea is new: one realistic ocean with waves, caustics, depth colour and (on High) the island reflected in the water; the boats ride the waves. Same protocol as v0.11.0.",
+  "pub_date": "2026-10-23T16:47:00.080Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbUdORG96aXUwUXJVVEs5aEl0ejd4SWtZY1BxNlF5U1ZTa3lIUzRUSnhQeTZvOUFHaTBER0c4VkRmV2ZUZ01aTFovQTZDTTZDcXFVQmY1UzJDVHZKeGlCK2hXQmdGQUFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzY5ODAyCWZpbGU6SGV4bGFuZHNfMC4xMS4xX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjExLjEKYzluZEtrRXZDODFnRCtia3k5M1lDUjdBNFRtejlWYWdac0xzQzMzYjNCTnIrMHB0NEdLUDBEVzFyUGVOMkJSZTNLYS9ocDBaeTdBUUlXdjQvbVlhQ2c9PQo=",
-      "url": "https://raw.githubusercontent.com/tweeeki/hexlands-releases/main/v0.11.1/Hexlands_0.11.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbUdORG96aXUwUXNQY1Bpa01kUnVBQXNOaHVRZWZnNXM5QkhNR1ZjbzNrekEzZnBENENmbE02UzJjbTBJZnVMSUJxRDlUdVVCTjhSL0hpWkNzdDQwZW9kVTlweFJxUWdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzc0MDE4CWZpbGU6SGV4bGFuZHNfMC4xMS4yX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjExLjIKTTdKOHM0MThOQTR4VFJ4cGhKSkM4YzVpWUpTRC9WcEdrbVRQc2dtcHFhenh4ZzRXQ0xjV2p2Z1hEdXhPZ3l5UExVZkszWStzUnp4MXBrdE41blFxQXc9PQo=",
+      "url": "https://raw.githubusercontent.com/tweeeki/hexlands-releases/main/v0.11.2/Hexlands_0.11.2_x64-setup.exe"
     }
   }
 }

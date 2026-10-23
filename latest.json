@@ -1,11 +1,11 @@
 {
-  "version": "0.12.0",
-  "notes": "v0.12.0: every model rebuilt without colour specks, and the installer is about half the size. The Orc Band is now our own 3D model with an idle animation. Where it stands on blocked tiles follows in a small update once you pick a, b or c.",
-  "pub_date": "2026-10-23T18:55:31.564Z",
+  "version": "0.12.1",
+  "notes": "Hotfix: after a 7, players who must discard now get the whole turn time the host set, no longer a third of it. Also: a tile no longer hides its own number token when you zoom in close.",
+  "pub_date": "2026-10-23T22:01:39.194Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbUdORG96aXUwUWl4eHZrbDdOVzBSTk4xR0JTOHpUSm0wNEV3eWdZQm1Cd2hxRkRPSjA2RHFYclFVT1lKMXAzTXBTdUlpcFFBdFJQa2hWVzZoZGl5aU00TllibndnMVF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzgxNzMwCWZpbGU6SGV4bGFuZHNfMC4xMi4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEyLjAKM3FqR1M2SnU4V3pMZkw4TW5icVZiZlpaSXc3R05CMjBEYUU1cmY3U2lIWGtieTVmRzd4UTdZLzM2Mm1kcTdiSDBrbUxHRHNqK3ovQ2RWTVBFZXZpRGc9PQo=",
-      "url": "https://raw.githubusercontent.com/tweeeki/hexlands-releases/main/v0.12.0/Hexlands_0.12.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbUdORG96aXUwUXNsbWdKMG9tQ3ZKN3VHMkFrUm8rTHlwRDZnNFY2WVJSa1QrdllhYUJ0TWM4NUU5a0NpR0pMcDA1MTEvTUpzZzZxRnp5WTI5eE9lWjNXU3lDaHhWT3cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzkyODk4CWZpbGU6SGV4bGFuZHNfMC4xMi4xX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEyLjEKWmJTUVM4MGxxLzlOcFVGaytFUGw2UUFaak1KMUM5Zm9lbmlkU3lZdDA2b0dHU2VkSFJKeVpOR05IZEtrcmY2cy9Vek1HY0piMDYxeC9SdzZ3Q2dtQWc9PQo=",
+      "url": "https://raw.githubusercontent.com/tweeeki/hexlands-releases/main/v0.12.1/Hexlands_0.12.1_x64-setup.exe"
     }
   }
 }

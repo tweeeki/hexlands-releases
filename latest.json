@@ -1,11 +1,11 @@
 {
-  "version": "0.11.3",
-  "notes": "Hotfix: the number tokens no longer flicker or show stripes when you move the camera. Same protocol as v0.11.0.",
-  "pub_date": "2026-10-23T17:01:45.062Z",
+  "version": "0.11.4",
+  "notes": "The frame under your roads, settlements and cities now takes a soft tint of your colour, so everyone sees whose land is where. In the app, dragging no longer selects text, right click no longer opens the browser menu, and F5 or Ctrl+R can no longer reload you out of a game. Same protocol as v0.11.0.",
+  "pub_date": "2026-10-23T17:37:32.479Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbUdORG96aXUwUXBDR2RnZlpYb2FRb1FaNDEybUwvM1lDN25SbmJ0NklLNHNURlZwMjVNaWQ1dTdDR0ZhOTVQK3F0Uk9lQ0Z3eGlIL3RlN1FzRzVPYk1aZ0hlSTNxL1EwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzc0OTAzCWZpbGU6SGV4bGFuZHNfMC4xMS4zX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjExLjMKdW9CYzZ3VVpDQStBZnFVTDg1NlI0U3I3MThqcVdTQ1pNYkFBcjdEenArb3Zyd1BZUlNLQm15RURKTUhDbUs0b2dBK0NKTEkzN0pUV0V6aFBTN2RzQ0E9PQo=",
-      "url": "https://raw.githubusercontent.com/tweeeki/hexlands-releases/main/v0.11.3/Hexlands_0.11.3_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbUdORG96aXUwUXJtYTlrUThtSVNnUG9WazBEUit1eGZTOUdHRnRSYVAwcFI0dlpCVUpCckQ2WGgvbzRBV05rTEpzb1NoWmNISW5rL1g4Wm9jNjFxMGpTUVhLL25RaHdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzc3MDQ4CWZpbGU6SGV4bGFuZHNfMC4xMS40X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjExLjQKYXhISlpjK2xWRkM0QWtMTXNyQXl2VFNmb1A4RmlTeHovVUdEUUVZeXdrNUUwY3gzNHpWZVVaalRwQk81Q04vK2ZTWCs5RjVNQmtSZzdxczhGckZhQVE9PQo=",
+      "url": "https://raw.githubusercontent.com/tweeeki/hexlands-releases/main/v0.11.4/Hexlands_0.11.4_x64-setup.exe"
     }
   }
 }

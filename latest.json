@@ -1,11 +1,11 @@
 {
-  "version": "0.12.1",
-  "notes": "Hotfix: after a 7, players who must discard now get the whole turn time the host set, no longer a third of it. Also: a tile no longer hides its own number token when you zoom in close.",
-  "pub_date": "2026-10-23T22:01:39.194Z",
+  "version": "0.13.0",
+  "notes": "The living board: the sheep walk about their pastures and graze, a windmill turns on every grain tile, smoke rises from the settlements and cities and their windows flicker like lanterns, gulls circle over the sea, and soft cloud shadows drift across the island. Low graphics keeps it calm; reduce motion holds it all still.",
+  "pub_date": "2026-10-23T22:44:08.929Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbUdORG96aXUwUXNsbWdKMG9tQ3ZKN3VHMkFrUm8rTHlwRDZnNFY2WVJSa1QrdllhYUJ0TWM4NUU5a0NpR0pMcDA1MTEvTUpzZzZxRnp5WTI5eE9lWjNXU3lDaHhWT3cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzkyODk4CWZpbGU6SGV4bGFuZHNfMC4xMi4xX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEyLjEKWmJTUVM4MGxxLzlOcFVGaytFUGw2UUFaak1KMUM5Zm9lbmlkU3lZdDA2b0dHU2VkSFJKeVpOR05IZEtrcmY2cy9Vek1HY0piMDYxeC9SdzZ3Q2dtQWc9PQo=",
-      "url": "https://raw.githubusercontent.com/tweeeki/hexlands-releases/main/v0.12.1/Hexlands_0.12.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbUdORG96aXUwUXJhMHAyTEo3Tm5mTHp5dlgzaStnMDdiVExjNUFpV3k1WFViU3JoaFBOMzFPZUttY05USUZ5R0gxNGVQejhueXhJdmE4SGUrQ0hTODJpcm1aUDFtYkFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzk1NDQ4CWZpbGU6SGV4bGFuZHNfMC4xMy4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEzLjAKb3JMWXllL3d0S0JyUTZFSHJSeHRaNXNNZnhaTlpaREhUUzJ3ZmpQREpmTFhpK2M3TmwzT0tnWUpyWWlWMFJkRVcwVDlHNnNtb3hCOTNXTnp1VTJmRGc9PQo=",
+      "url": "https://raw.githubusercontent.com/tweeeki/hexlands-releases/main/v0.13.0/Hexlands_0.13.0_x64-setup.exe"
     }
   }
 }
